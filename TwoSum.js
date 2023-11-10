@@ -28,6 +28,3 @@ var twoSum = function (nums, target) {
     }
   }
 };
-
-//testing line 
-//to add two numbers
